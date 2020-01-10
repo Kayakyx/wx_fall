@@ -1,0 +1,5 @@
+<!--pages/newYear/newYear.wxml-->
+<!-- <text>pages/newYear/newYear.wxml</text> -->
+<view class="newYear" bindtap="handleTap">
+  <canvas class="myCanvas" style="width: 100%; height:{{canvasHeight}}px" canvas-id="myCanvas"></canvas>
+</view>

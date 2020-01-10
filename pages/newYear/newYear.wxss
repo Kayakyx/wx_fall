@@ -1,0 +1,12 @@
+/* pages/newYear/newYear.wxss */
+
+.newYear {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+/* 如果想点透canvas 添加下面属性 */
+.myCanvas {
+  pointer-events: none;
+}

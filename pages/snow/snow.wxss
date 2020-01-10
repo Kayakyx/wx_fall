@@ -1,0 +1,7 @@
+/* pages/snow/snow.wxss */
+
+.snow {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}

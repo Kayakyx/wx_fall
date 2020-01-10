@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/newYear/newYear",
+
+    "pages/snow/snow",
+
+    "pages/index/index"
+
+
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "for my love",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

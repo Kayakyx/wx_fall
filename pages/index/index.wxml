@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="content">
+    <div>waiting for what I said</div>
+    <div>for ever and nerver......</div>
+    <div style="margin-bottom: 10rpx;">day-{{days}}</div>
+    <div>......</div>
+    <div>......</div>
+    <div>......</div>
+    <div>......</div>
+  </view>
+  <canvas style="width: 100%; height:{{canvasHeight}}px" canvas-id="myCanvas">
+  </canvas>
+  <view class="my-word">
+    <div>......</div>
+    <div>......</div>
+    <div>......</div>
+    <div>......</div>
+    <div>......</div>
+  </view>
+</view>
