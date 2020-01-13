@@ -1,13 +1,9 @@
 {
   "pages": [
+    "pages/newYear2/newYear2",
     "pages/newYear/newYear",
-
     "pages/snow/snow",
-
     "pages/index/index"
-
-
-
   ],
   "window": {
     "backgroundTextStyle": "light",

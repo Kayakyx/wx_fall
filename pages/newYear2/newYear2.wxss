@@ -1,0 +1,20 @@
+/* pages/newYear2/newYear2.wxss */
+
+.newYear {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+.scroll-view image {
+  width: 100%;
+}
+
+
+
+/* 如果想点透canvas 添加下面属性 */
+.myCanvas {
+  position: fixed;
+  pointer-events: none;
+  z-index: 999;
+}

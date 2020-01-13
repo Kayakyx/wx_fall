@@ -1,0 +1,14 @@
+<!--pages/newYear2/newYear2.wxml-->
+<!-- <text>pages/newYear2/newYear2.wxml</text> -->
+<view class="newYear" bindtap="handleTap">
+  <canvas class="myCanvas" style="width: 100%; height:{{canvasHeight}}px" canvas-id="myCanvas"></canvas>
+  <!-- 内容放到scroll-view里解决canvas随滚动条滚动的bug -->
+  <scroll-view class="scroll-view" scroll-y="true" style="height: 100%;"> 
+  
+    <view class="content">
+      <image src="/resource/year/article.jpg" mode="widthFix"></image>
+    </view>
+
+  </scroll-view>
+
+</view>
